@@ -1,1 +1,1 @@
-# privacy
+# @nuxt4-layers/privacy
